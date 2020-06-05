@@ -1,6 +1,6 @@
 # Study Plan
 
-The third part of this nanodegree program covers policy-based methods in deep reinforcement learning. You can find all of the coding exercises from the lessons in this GitHub repository.
+The third part of this nanodegree program covers policy-based methods in deep reinforcement learning. You can find all of the coding exercises from the lessons in this [【GitHub repository】](https://github.com/udacity/deep-reinforcement-learning).
 
 ## Lessons
 
@@ -20,6 +20,6 @@ In this lesson, you'll learn how to combine value-based and policy-based methods
 In this optional lesson, you'll learn how to apply deep reinforcement learning techniques for optimal execution of portfolio transactions.
 
 ### Resources (Optional)
-* Read the most famous blog post on policy gradient methods.
-* Implement a policy gradient method to win at Pong in this Medium post.
-* Learn more about evolution strategies from OpenAI.
+* Read the most famous [【blog post】](http://karpathy.github.io/2016/05/31/rl/g) on policy gradient methods.
+* Implement a policy gradient method to win at Pong in this [【Medium post】](https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0).
+* Learn more about [【evolution strategies】](https://blog.openai.com/evolution-strategies/) from OpenAI.
